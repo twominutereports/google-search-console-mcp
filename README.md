@@ -1,4 +1,4 @@
-# Google Search Console MCP Server — by Two Minute Reports 🔍
+# Google Search Console MCP by Two Minute Reports
 
 [![MCP](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
 [![Claude.ai](https://img.shields.io/badge/Claude.ai-Supported-orange)](https://claude.ai)
